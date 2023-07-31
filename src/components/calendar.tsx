@@ -1,4 +1,3 @@
-// src/components/Calendar.tsx
 import React, { useEffect, useState } from 'react';
 import { Event, generateEvents } from '../utils/stubGenerator';
 import { saveEvents, loadEvents } from '../utils/db';
